@@ -1,2 +1,2 @@
-welcome to git
-Glad to see you
+welcome to git;
+Glad to see you;
